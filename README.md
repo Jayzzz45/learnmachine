@@ -1,2 +1,3 @@
 # learnmachine
-jsut getting started
+just getting started
+gitt
